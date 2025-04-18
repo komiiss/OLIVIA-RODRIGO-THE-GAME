@@ -4,13 +4,13 @@ Um mini game em Scratch onde você ajuda **Olivia Rodrigo** a lidar com um probl
 
 ### 🧠 Enredo
 
-Você conhece Olivia Rodrigo e logo de cara ela te dá um “oi” 🥹  
+Você conhece Olivia Rodrigo e logo de cara ela te dá um “oi”  
 Ela pergunta seu nome, e logo depois vem a pergunta crucial:
 
 > "**Você pode me ajudar com um probleminha?**"
 
 O computador da Olivia foi infectado por um vírus misterioso 🦠💻  
-Você tem a opção de ajudar… ou não. Mas *spoiler*: de qualquer jeito, **você vai acabar ajudando sim, miga!** 😭💅
+Você tem a opção de ajudar… ou não. Mas *spoiler*: de qualquer jeito, **você vai acabar ajudando sim!** 
 
 ### 🕹️ Jogabilidade
 
