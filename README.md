@@ -1,36 +1,27 @@
 ## 🎮 Olivia Rodrigo: The Game
 
-Um mini game em Scratch onde você ajuda **Olivia Rodrigo** a lidar com um problema urgente no computador... 👀
+**Olivia Rodrigo: The Game** é um mini game desenvolvido na plataforma **Scratch**, com foco em narrativa interativa e escolhas do jogador.
 
-### 🧠 Enredo
-
-Você conhece Olivia Rodrigo e logo de cara ela te dá um “oi”  
-Ela pergunta seu nome, e logo depois vem a pergunta crucial:
-
-> "**Você pode me ajudar com um probleminha?**"
-
-O computador da Olivia foi infectado por um vírus misterioso 🦠💻  
-Você tem a opção de ajudar… ou não. Mas *spoiler*: de qualquer jeito, **você vai acabar ajudando sim!** 
-
-### 🕹️ Jogabilidade
-
-- Jogo interativo por **clique**
-- Escolhas de diálogo
-- Mini gameplay de clicar no vírus para derrotá-lo 🖱️⚔️
-- Final misterioso com **Sabrina Carpenter** aparecendo...  
-  Ela fala que **precisa de ajuda**, mas não dá nenhum detalhe.  
-  O clima é sério. E o jogo… termina.
-
-### 📦 Como jogar
-
-1. Baixe o arquivo `.sb3` (Scratch 3.0)
-2. Importe no [Scratch Online Editor](https://scratch.mit.edu/projects/editor/) ou use o app Scratch
-3. Clique na bandeira verde para começar 🏁
-4. Aproveite o drama, o mistério e o pop!
+O projeto combina storytelling com mecânicas simples de interação, explorando diálogos, tomada de decisões e um pequeno desafio de jogabilidade.
 
 ---
 
-### 👤 Sobre o Criador
+### 🧠 Enredo
 
-Este projeto foi criado por **Matheus eu mesmo**, com 14 anos de idade, enquanto cursava o **9º ano**.  
-Eu mesmo escrevi esse README com muito carinho! Uma ideia simples, mas cheia de personalidade, mistério e **muita criatividade** — um verdadeiro exercício de imaginação e construção de narrativa! 💜
+No início do jogo, o jogador conhece a personagem Olivia Rodrigo, que inicia uma breve conversa e, em seguida, apresenta um problema inesperado.
+
+O computador da personagem foi infectado por um vírus, e o jogador é convidado a ajudar a resolver a situação.  
+Independentemente da escolha inicial, a narrativa conduz o jogador ao desafio principal, dando continuidade à história.
+
+Ao final, o jogo apresenta um desfecho misterioso com a aparição da personagem Sabrina Carpenter, que solicita ajuda sem revelar detalhes, deixando a narrativa em aberto.
+
+---
+
+### 🕹️ Jogabilidade
+
+- Interação baseada em cliques  
+- Sistema de escolhas de diálogo  
+- Mini game no qual o jogador deve eliminar o vírus do computador  
+- Final aberto com foco em suspense narrativo  
+
+
